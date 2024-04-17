@@ -1,12 +1,12 @@
 
-# Book Recommendar System
+# Book Recommender System
 
-A book recommendar system implemented using user based collaborative filtering. It can suggest upto 76 thousand books.
+A book recommender system implemented using User-based collaborative filtering.
 
 
 ## Dataset Description
 
-The first **reviews** file contain feedback about 3M user on 212404 unique books the data set is part of the Amazon review Dataset it contains product reviews and metadata from Amazon, including 142.8 million reviews spanning May 1996 - July 2014.
+The first **reviews** file contains feedback about 3M users on 212404 unique books the data set is part of the Amazon review Dataset it contains product reviews and metadata from Amazon, including 142.8 million reviews spanning May 1996 - July 2014.
 and this file has these attributes
 
 |Features|	Description|
