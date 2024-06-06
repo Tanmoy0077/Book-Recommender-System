@@ -1,8 +1,14 @@
 
 # Book Recommender System
 
-A book recommender system implemented using User-based collaborative filtering.
+This project implements a book recommender system based on user-based collaborative filtering. It utilizes Amazon's books dataset, which contains up to 76 thousand books. The recommender system suggests 5 similar books based on the user's selection.
 
+## Project Structure
+
+The repository contains the following files:
+
+- `App.py`: Streamlit app for running the book recommender system.
+- `Book Recommender System.ipynb`: Jupyter notebook describing the steps of building the recommender system.
 
 ## Dataset Description
 
